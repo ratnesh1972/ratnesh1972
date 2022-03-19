@@ -1,1 +1,1 @@
-<img src=”githubcover2@2x.png” alt=”Ratnesh Patil”/>
+<img src=”githubcover2.png” alt=”Ratnesh Patil”/>
