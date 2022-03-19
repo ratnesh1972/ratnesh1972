@@ -1,1 +1,1 @@
-<img src=”https://https://drive.google.com/file/d/1tYdAr5B4xnNU4WpNIaq9EjikB5_SdbOr/view?usp=sharing” alt=”Ratnesh Patil”/>
+<img src=”https://github.com/ratnesh1972/ratnesh1972/githubcover2@2x.png” alt=”Ratnesh Patil”/>
