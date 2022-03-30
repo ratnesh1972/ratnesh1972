@@ -5,9 +5,6 @@
 # Hi There 🙋🏻‍♂️
 **I am a Software Developer based in Pune, India and currently working in Accenture. I am passionate about web development and I am currently learning new tools & technologies everyday to become a kickass Fullstack Developer.**
 
-## My Portfolio
-https://ratneshpatil.netlify.app/
-
 <!-- Github Stats for repos -->
 ![Ratnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh1972&theme=dark&show_icons=true&count_private=true)
 <!--  Github stats for most used languages -->
