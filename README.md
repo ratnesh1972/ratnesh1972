@@ -19,7 +19,7 @@
 <!--  Social Links -->
 ## Connect with me 🤝
 [![LinkedIn : ratneshpatil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshpatil/)
-[![Intagram : devmaniac173d](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmaniac173/)
+[![Intagram : devmaniac173d](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmaniac173/](https://www.instagram.com/ratnesh_designs/)
 [![Behance : ratneshpatildesigns](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ratneshpatildesigns/)
 
 
